@@ -1,6 +1,9 @@
 Vendor Performance Analysis Project
 Overview
+----------------------------check whole project here ---------------------------
 
+https://drive.google.com/file/d/1UHhxFAmav5mxCWWCL6rukhEjw6HNgxL0/view?usp=sharing
+-----------------------------------------------------------------------------------
 Effective inventory and sales management is key to maximizing profitability in the retail and wholesale sectors. This project analyzes vendor performance, identifies profitability trends, and provides actionable insights to optimize sales, reduce inventory costs, and improve operational efficiency.
 
 The analysis demonstrates how data-driven decision-making can support strategic vendor management, pricing adjustments, and stock optimization.
@@ -113,5 +116,6 @@ df = pd.read_csv("vendor_data.csv")
 Explore visualizations and reports generated from the scripts.
 
 Author
+
 
 Pallavi– Aspiring Data Analyst | Portfolio Project
